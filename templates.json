@@ -1,0 +1,11 @@
+[
+    {
+        "template": "netcore31-func",
+        "platform": "x86_64",
+        "language": "C#",
+        "source": "oni",
+        "description": "netcore 3.1 C# function template",
+        "repo": "https://github.com/mzck5y/ofaas-templates",
+        "official": "true"
+    }
+]

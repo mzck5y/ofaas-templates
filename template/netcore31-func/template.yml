@@ -1,0 +1,2 @@
+language: netcore31-function
+fprocess: dotnet ./function.dll
