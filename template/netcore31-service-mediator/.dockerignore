@@ -1,0 +1,5 @@
+bin
+obj
+./function/Service.csproj
+./function/bin
+./function/obj

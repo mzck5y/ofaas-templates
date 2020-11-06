@@ -1,11 +1,38 @@
 [
     {
-        "template": "netcore31-func",
+        "template": "netcore31-function",
         "platform": "x86_64",
         "language": "C#",
-        "source": "oni",
+        "source": "Efren Gonzalez",
         "description": "netcore 3.1 C# function template",
         "repo": "https://github.com/mzck5y/ofaas-templates",
-        "official": "true"
+        "official": "false"
+    },
+    {
+        "template": "netcore31-function-mediator",
+        "platform": "x86_64",
+        "language": "C#",
+        "source": "Efren Gonzalez",
+        "description": "netcore 3.1 C# function template with MediatR support",
+        "repo": "https://github.com/mzck5y/ofaas-templates",
+        "official": "false"
+    },
+    {
+        "template": "netcore31-service",
+        "platform": "x86_64",
+        "language": "C#",
+        "source": "Efren Gonzalez",
+        "description": "netcore 3.1 C# Web API template",
+        "repo": "https://github.com/mzck5y/ofaas-templates",
+        "official": "false"
+    },
+    {
+        "template": "netcore31-service-mediator",
+        "platform": "x86_64",
+        "language": "C#",
+        "source": "Efren Gonzalez",
+        "description": "netcore 3.1 C# Web API template with MediatR support",
+        "repo": "https://github.com/mzck5y/ofaas-templates",
+        "official": "false"
     }
 ]
