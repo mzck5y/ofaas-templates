@@ -1,5 +1,5 @@
 bin
 obj
-./function/Function.csproj
+./function/Function.csproj 
 ./function/bin
 ./function/obj
