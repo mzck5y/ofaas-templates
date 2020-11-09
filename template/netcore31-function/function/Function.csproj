@@ -4,11 +4,9 @@
         <RootNamespace>Function</RootNamespace>
         <LangVersion>8.0</LangVersion>
     </PropertyGroup>
-  
     <PropertyGroup>
         <AssemblyName>function</AssemblyName>
     </PropertyGroup>
-
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.9" />
     </ItemGroup>
