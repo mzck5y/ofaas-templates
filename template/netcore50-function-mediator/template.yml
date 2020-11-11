@@ -1,0 +1,2 @@
+language: netcore50-function-mediator
+fprocess: dotnet ./function.dll
