@@ -1,2 +1,2 @@
-language: netcore50-service
+language: netcore50-service-mediator
 fprocess: dotnet ./service.dll
