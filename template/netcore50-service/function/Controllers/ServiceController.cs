@@ -5,7 +5,7 @@ using Service.Requests;
 using Service.Responses;
 using System.Net;
 
-namespace Service
+namespace Service.Controllers
 {
     [Route("api")]
     public class ServiceController : ControllerBase

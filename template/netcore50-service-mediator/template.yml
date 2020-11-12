@@ -1,0 +1,2 @@
+language: netcore50-service
+fprocess: dotnet ./service.dll
