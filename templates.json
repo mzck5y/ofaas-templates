@@ -40,7 +40,7 @@
         "platform": "x86_64",
         "language": "C#",
         "source": "Efren Gonzalez",
-        "description": ".net 5.0 C# function template",
+        "description": ".net 5.0 C# function template.",
         "repo": "https://github.com/mzck5y/ofaas-templates",
         "official": "false"
     },
@@ -49,7 +49,7 @@
         "platform": "x86_64",
         "language": "C#",
         "source": "Efren Gonzalez",
-        "description": ".net 5.0 C# function template with MediatR support",
+        "description": ".net 5.0 C# function template with MediatR support.",
         "repo": "https://github.com/mzck5y/ofaas-templates",
         "official": "false"
     },
@@ -58,7 +58,7 @@
         "platform": "x86_64",
         "language": "C#",
         "source": "Efren Gonzalez",
-        "description": ".net 5.0 C# Web API template",
+        "description": ".net 5.0 C# Web API template.",
         "repo": "https://github.com/mzck5y/ofaas-templates",
         "official": "false"
     },
@@ -67,7 +67,7 @@
         "platform": "x86_64",
         "language": "C#",
         "source": "Efren Gonzalez",
-        "description": ".net 5.0 C# Web API template with MediatR support",
+        "description": ".net 5.0 C# Web API template with MediatR support.",
         "repo": "https://github.com/mzck5y/ofaas-templates",
         "official": "false"
     }
